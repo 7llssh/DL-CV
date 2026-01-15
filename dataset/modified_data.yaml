@@ -1,0 +1,24 @@
+names:
+- '1'
+- '2'
+- No-helmet
+- Np
+- bike
+- car
+- helmet
+- mobile
+- no-helmet
+- person-noseatbelt
+- person-seatbelt
+- seatbelt
+nc: 12
+path: dataset
+roboflow:
+  license: CC BY 4.0
+  project: seat_belt_detection-78bmx
+  url: https://universe.roboflow.com/farishijazi/seat_belt_detection-78bmx/dataset/2
+  version: 2
+  workspace: farishijazi
+test: test/images
+train: train/images
+val: test/images
